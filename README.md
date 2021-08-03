@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Somenath Sarkar</h1>
+<h1 align="center">Hello 👋, I'm Somenath Sarkar</h1>
 <h3 align="center">A final year undergraduate student from IIT Patna. I have worked at Samsung Bangalore as an SDE Intern. I was selected for Google Summer of Code in 2020. I am proficient in Data Structures and Algorithms. I have decent experience in Java Projects, rich knowledge in Android development and fair experience in Javascript frameworks or libraries like React and Node.</h3>
 
 - 📫 How to reach me **somenath1435@gmail.com**
